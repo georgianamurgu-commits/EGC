@@ -1,0 +1,17 @@
+02\Form1.cs
+// Fix: ensure specular for light0 is initialized
+private void setLight0Values() {
+    for (int i = 0; i < valuesAmbientTemplate0.Length; i++) {
+        valuesAmbient0[i] = valuesAmbientTemplate0[i];
+    }
+    for (int i = 0; i < valuesDiffuseTemplate0.Length; i++) {
+        valuesDiffuse0[i] = valuesDiffuseTemplate0[i];
+    }
+    // copy specular template into valuesSpecular0 (was missing)
+    for (int i = 0; i < valuesSpecularTemplate0.Length; i++) {
+        valuesSpecular0[i] = valuesSpecularTemplate0[i];
+    }
+    for (int i = 0; i < valuesPositionTemplate0.Length; i++) {
+        valuesPosition0[i] = valuesPositionTemplate0[i];
+    }
+}
