@@ -1,0 +1,38 @@
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\Content\Textures\pebbles.jpg
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\Content\Textures\map.png
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\ReTester.exe.config
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\ReTester.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\ReTester.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\OpenTK.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\OpenTK.GLControl.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\OpenTK.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\OpenTK.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\bin\Debug\OpenTK.GLControl.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.csprojAssemblyReference.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.MainForm.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.Properties.Resources.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.csproj.GenerateResource.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.csproj.CopyComplete
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\ReTester\obj\Debug\ReTester.pdb
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\Content\Textures\pebbles.jpg
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\Content\Textures\map.png
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\ReTester.exe.config
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\ReTester.exe
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\ReTester.pdb
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\OpenTK.dll
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\OpenTK.pdb
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\OpenTK.xml
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.exe.config
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.MainForm.resources
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.csproj.Up2Date
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.exe
+C:\Users\Admin\OneDrive\Desktop\OpenTK_lab12_v02\ReTester\obj\Debug\ReTester.pdb
